@@ -46,3 +46,5 @@
 
 修正完成後結果如下：
 ![Gradle version debug success](https://github.com/toppy368/Android-Sudio-issue/blob/main/images/2022-04-07%2023.01.16_Gradle-version-debug-ok.jpg)
+
+如果沒跳出其他錯誤訊息就修正成功了！
