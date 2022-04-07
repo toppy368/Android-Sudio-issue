@@ -5,7 +5,7 @@
 
 錯誤訊息完整截圖如下：
 
-![Gradle version error][https://github.com/toppy368/Android-Sudio-issue/blob/main/images/2022-04-07%2022.58.46_Gradle-version-error.jpg]
+![Gradle version error][https://github.com/toppy368/Android-Sudio-issue/blob/main/images/2022-04-07 2022.58.46_Gradle-version-error.jpg]
 
 
 若發生以下錯誤訊息：  
