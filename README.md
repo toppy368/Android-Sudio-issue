@@ -6,4 +6,4 @@
 若發生以下錯誤訊息：
 
 
-請將版本號往下修改，將 com.android.application 及 com.android.library 的 version 版本號 從 7.1.3 改成 7.1.2
+請將版本號往下修改，將 `com.android.application` 及 `com.android.library` 的 version 版本號 從 `7.1.3` 改成 `7.1.2`。
