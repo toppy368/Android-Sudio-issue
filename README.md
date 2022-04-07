@@ -3,7 +3,7 @@
 
 ## Gradle 版號錯誤
 
-若發生以下錯誤訊息：
+若發生以下錯誤訊息：  
     Plugin [id: 'com.android.application', version: '7.1.3', apply: false] was not found in any of the following sources:
     
     * Try:
