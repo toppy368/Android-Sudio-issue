@@ -1,2 +1,2 @@
-# Android-sudio-issue
+# Android-Sudio-issue
 疑難雜症與處理方式合集
